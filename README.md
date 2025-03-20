@@ -3,7 +3,7 @@
 Welcome to my portfolio repository! 🚀 This is where I showcase my projects, skills, and contributions in blockchain, hardware engineering, and full-stack development.
 
 ## 🔥 About Me
-I'm **OxF3stus**, a hardware engineer, MERN stack developer, and blockchain enthusiast. I specialize in integrating **hardware with blockchain**, building **IoT systems**, and creating **decentralized applications**. I'm also actively involved in making **NEAR Protocol** more accessible for developers and non-technical users alike.
+I'm **OxF3stus**, a hardware engineer, Full Stack developer, and blockchain enthusiast. I specialize in integrating **hardware with blockchain**, building **IoT systems**, and creating **decentralized applications**. I'm also actively involved in making **NEAR Protocol** more accessible for developers and non-technical users alike.
 
 ## 📁 Projects
 Here are some of the key projects featured in this portfolio:
@@ -23,9 +23,9 @@ Here are some of the key projects featured in this portfolio:
 - **Other:** Docker, Git, Web3.js, Telegram/WhatsApp Bot APIs
 
 ## 📬 Connect with Me
-- **Twitter/X:** [@innovator_29](https://twitter.com/OxF3stus_29)
+- **Twitter/X:** [@OxF3stus_29](https://twitter.com/OxF3stus_29)
 - **GitHub:** [OxF3stus](https://github.com/OxF3stus)
-- **Email:** [OxF3stus](oxfestus@proton.me)
+- **Email:** (oxfestus@proton.me)
 
 ---
 Feel free to explore, contribute, and reach out if you have any questions! 😃
