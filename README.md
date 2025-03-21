@@ -31,4 +31,3 @@ Here are some of the key projects featured in this portfolio:
 Feel free to explore, contribute, and reach out if you have any questions! 😃
 
 
-[42,15,22,169,68,1,138,119,62,131,199,212,34,27,3,85,167,227,173,95,22,117,9,225,207,251,70,152,254,139,20,55,16,223,89,78,84,3,198,107,99,7,28,178,123,115,124,137,14,188,22,37,193,184,13,70,110,49,65,23,87,38,249,148]
